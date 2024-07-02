@@ -10,9 +10,9 @@ import requests
 import concurrent.futures
 from functools import partial
 
-USER_NAME = 'SDGR1053'
-PWD = '@nAnd1988'
-API_KEY = 'E1RaN8tO'
+USER_NAME = ''
+PWD = ''
+API_KEY = ''
 
 
 with concurrent.futures.ThreadPoolExecutor() as executor:
